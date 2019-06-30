@@ -1,6 +1,6 @@
 {
-  "short_name": "app",
-  "name": "app",
+  "short_name": "Apptension Boilerplate",
+  "name": "Apptension Boilerplate",
   "icons": [
     {
       "src": "/icons/android-chrome-192x192.png",
